@@ -1,5 +1,5 @@
 # Tetris 🎮
-![Captura del juego Tetris](Captura%20de%20pantalla%202024-11-28%20a%20las%2017.06.21.png "Tetris en acción")
+![Captura del juego Tetris](Tetris/Captura%20de%20pantalla%202024-11-28%20a%20las%2017.06.21.png "Tetris en acción")
 
 Este es un proyecto clásico de Tetris desarrollado utilizando **HTML**, **CSS** y **JavaScript vanilla**. Pon a prueba tus reflejos y estrategia completando líneas para alcanzar la puntuación más alta.
 
